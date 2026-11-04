@@ -1,0 +1,6 @@
+{
+  "name": "BNMIT Lost & Found Portal",
+  "description": "A full-stack, secure, modern Lost & Found portal for BNMIT students. Features USN & Email validation, secure student sign-in, item search, reactive dashboard stats, claims history, and item upload forms powered by Express & MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
